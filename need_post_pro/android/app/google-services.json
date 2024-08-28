@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "653038048597",
+    "project_id": "need-post-pro-uzl40l",
+    "storage_bucket": "need-post-pro-uzl40l.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653038048597:android:04ec79c28a067963134bdc",
+        "android_client_info": {
+          "package_name": "com.needpost.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVmPz4IZ3XJqR6PN8MTdP9QHLI7c1IclY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
